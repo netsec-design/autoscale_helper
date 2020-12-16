@@ -44,7 +44,7 @@ Parameters:
     MinLength: 1
     MaxLength: 255
     AllowedPattern: '^[a-zA-Z][-a-zA-Z0-9]*$'
-    Default: ami-04c5e5e4f84fa7087
+    Default: ami-020790e9a294ea856
 
   VPCCIDR:
     AllowedPattern: >-
